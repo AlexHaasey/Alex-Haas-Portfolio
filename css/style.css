@@ -1,0 +1,75 @@
+body {
+    font-family: 'Times New Roman', Arial, sans-serif;
+    font-size: 25px;
+    color: #ffe2a9;
+    background-color: rgb(42, 42, 42)
+
+}
+
+a,
+a:link {
+  color: rgb(252, 179, 43);
+}
+
+a:visited {
+  color: rgba(203, 203, 203, 0.8);
+}
+
+a:hover {
+  color: rgb(255, 115, 0);
+}
+
+a:active {
+  color: rgb(255, 255, 255);
+}
+
+.nav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.nav a {
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+
+
+header {
+    h1 {
+        font-family: 'PT Sans', serif;
+        font-size: 70px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    padding: 30px;
+    margin-bottom: 30px;
+    border: 6px solid #ffe2a9;
+}
+
+main {
+
+    
+
+    h2,
+    h3 {
+        font-family: 'Open Sans', serif;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    max-width: 60ch;
+    line-height: 1.6;
+
+    margin: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
