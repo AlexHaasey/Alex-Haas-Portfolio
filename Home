@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Alex Haas Portfolio</title>
+    </head>
+
+    <body>
+
+        <header>
+            <h1>Alex Haas</h1>
+
+            <nav>
+                <ul>
+                    <li>a href="#home">Home</a></li>
+                    <li>a href="#films">Films</a></li>
+                    <li>a href="#photo-gallery">Photo Gallery</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <section id="home">
+                <h2>Background</h2>
+
+                <p>My name is Alex Haas, and I am a filmmaker and photographer at the University of Miami. I am passionate about creating beautiful imagery that will immerse the viewer in the world I am documenting. This passion sparked at a young age and has completely overtaken my life, as I live through the lens of a camera. My journey has taken me from filming sports to music to travel, picking up every freelance job offered to me on the way. I have also began exploring content creation using AI products such as Kaiber and Runway, which has enhanced my work even further. My projects are fueled by curiosity, creativity and a deep desire to inspire individuals to explore the beautiful world around them.</p>
+
+                <h2>Resume</h2>
+
+                <p></p>
+                
+            </section>
+        </main>
+    </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
