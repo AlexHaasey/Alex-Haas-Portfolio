@@ -17,6 +17,8 @@
                     <li>a href="#photo-gallery">Photo Gallery</a></li>
                 </ul>
             </nav>
+
+            <img src="images/300$.jpg" alt="Alex Haas profile picture">
         </header>
 
         <main>
